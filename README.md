@@ -1,5 +1,5 @@
 # **Informática Básica 2021/2022 Prácticas**
-<p> Este repositorio agrupa todas las prácticas realizadas en el curso 2021/22 </p>
+<p> Este repositorio agrupa todas las prácticas realizadas en el curso 2021/22, en la asginatura de Informática Básica. </p>
 
 ## · Práctica 1 "El Entorno de trabajo IaaS para la asignatura"   
   Enlace Práctica
