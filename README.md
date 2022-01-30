@@ -27,9 +27,11 @@
   https://github.com/ULL-ESIT-IB-2021-2022/ib-2021-2022-P06-Statements
 ### · Práctica 7 "Introducción a los tests unitarios. La plataforma Jutge"
   Enlace Práctica
+  
   https://github.com/ULL-ESIT-IB-2021-2022/ib-2021-2022-P07-UnitT-Jutge
 ### · Práctica 8 "Funciones. GitHub y git."
   Enlace Práctica
+  
   https://github.com/ULL-ESIT-IB-2021-2022/ib-2021-2022-P08-GitHub-Functions/blob/main/Functions-GitHub.md
 ### · Práctica 9 "Funciones (2). GitHub Classroom"
   Enlace Práctica
@@ -38,7 +40,7 @@
   
   Enlace Repositorio Práctica Alumno
   
-  <https://github.com/ULL-ESIT-IB-2021-2022/ib-2021-2022-p09_funciones2-Javieralmenara01
+  https://github.com/ULL-ESIT-IB-2021-2022/ib-2021-2022-p09_funciones2-Javieralmenara01
 ### · Práctica 10 "Ficheros. Documentación de código. Doxygen"
   Enlace Práctica
   
@@ -56,12 +58,17 @@
   
   https://github.com/ULL-ESIT-IB-2021-2022/ib-2021-2022-p11_classes-Javieralmenara01
   ### · Práctica 11 B "Programación Orientada a Objetos. Tests Unitarios. Google Tests."
-  <p> Enlace Práctica </p>
-  <https://github.com/ULL-ESIT-IB-2021-2022/P11-OOP-GoogleTests/blob/main/OOP-GoogleTests.md>
-  <p> Enlace Repositorio Práctica Alumno </p>
-  <https://github.com/ULL-ESIT-IB-2021-2022/ib-2021-2022-p11_oop-gtests-Javieralmenara01>
+  Enlace Práctica
+  
+  https://github.com/ULL-ESIT-IB-2021-2022/P11-OOP-GoogleTests/blob/main/OOP-GoogleTests.md
+  
+  Enlace Repositorio Práctica Alumno
+  
+  https://github.com/ULL-ESIT-IB-2021-2022/ib-2021-2022-p11_oop-gtests-Javieralmenara01
   ### · Práctica 12 "Introducción a la OOP. Clases. Google Tests. Exercism."
-  <p> Enlace Práctica </p>
-  <https://github.com/ULL-ESIT-IB-2021-2022/P12-OOP-Exercism/blob/main/OOP-Exercism.md>
-  <p> Enlace Repositorio Práctica Alumno </p>
-  <https://github.com/ULL-ESIT-IB-2021-2022/ib-2021-2022-p12_oop-exercism-Javieralmenara01>
+  Enlace Práctica
+  
+  https://github.com/ULL-ESIT-IB-2021-2022/P12-OOP-Exercism/blob/main/OOP-Exercism.md
+  
+  Enlace Repositorio Práctica Alumno
+  https://github.com/ULL-ESIT-IB-2021-2022/ib-2021-2022-p12_oop-exercism-Javieralmenara01
