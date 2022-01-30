@@ -2,11 +2,11 @@
 <p> Este repositorio agrupa todas las prácticas realizadas en el curso 2021/22 </p>
 
   ### · Práctica 1 "El Entorno de trabajo IaaS para la asignatura"
-    <p> Enlace Práctica </p>
-    <https://github.com/ULL-ESIT-IB-2021-2022/ib-2021-2022-assignment-01-iaas>
+  <p> Enlace Práctica </p>
+    https://github.com/ULL-ESIT-IB-2021-2022/ib-2021-2022-assignment-01-iaas
   ### · Práctica 2 "Comandos básicos en el Sistema Operativo Linux"
-    <p> Enlace Práctica </p>
-    <https://github.com/ULL-ESIT-IB-2021-2022/ib-2021-2022-assignment-02-commands>
+  <p> Enlace Práctica </p>
+     https://github.com/ULL-ESIT-IB-2021-2022/ib-2021-2022-assignment-02-commands
   ### · Práctica 3 "Algoritmos, Sentencias y Programas. Scratch y Blockly"
     <p> Enlace Práctica </p>
     <https://github.com/ULL-ESIT-IB-2021-2022/ib-2021-2022-assignment-03-scratch-and-blockly>
