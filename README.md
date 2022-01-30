@@ -3,13 +3,13 @@
 
   ### · Práctica 1 "El Entorno de trabajo IaaS para la asignatura"
   <p> Enlace Práctica </p>
-  'https://github.com/ULL-ESIT-IB-2021-2022/ib-2021-2022-assignment-01-iaas' /p
+  <p> https://github.com/ULL-ESIT-IB-2021-2022/ib-2021-2022-assignment-01-iaas' </p>
   ### · Práctica 2 "Comandos básicos en el Sistema Operativo Linux"
   <p> Enlace Práctica </p>
-  <https://github.com/ULL-ESIT-IB-2021-2022/ib-2021-2022-assignment-02-commands<
+  <p> https://github.com/ULL-ESIT-IB-2021-2022/ib-2021-2022-assignment-02-commands </p>
   ### · Práctica 3 "Algoritmos, Sentencias y Programas. Scratch y Blockly"
   <p> Enlace Práctica </p>
-  https://github.com/ULL-ESIT-IB-2021-2022/ib-2021-2022-assignment-03-scratch-and-blockly
+  <p> https://github.com/ULL-ESIT-IB-2021-2022/ib-2021-2022-assignment-03-scratch-and-blockly </p>
   ### · Práctica 4 "Programas simples. Tipos de Datos y Expresiones"
   <p> Enlace Práctica </p>
   <https://github.com/ULL-ESIT-IB-2021-2022/ib-2021-2022-assignment-04-basic-programs>
