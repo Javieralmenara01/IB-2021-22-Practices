@@ -15,15 +15,13 @@
 using namespace std;
 
 int main() {
-    unsigned long number,i, sum=0, square;
+    int number, sum{0}, square{0};
     cout << "Enter any number: ";
     cin >> number;
-
     for(int i = 1; i <= number; ++i) {
-    square = i * i;
+        square = i * i;
         sum += square;
     }
-
     cout<<"\nSum of square of [ "<< number <<" ] Numbers = " << sum << "\n";
     return 0;
 }
